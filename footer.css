@@ -1,0 +1,152 @@
+.footer-head
+    {
+      background-color: #154c7a;
+      width: 100%;
+        /* display: flex; */
+      float: left;
+    }
+    .footer-head-container{
+     
+      height: 115px;
+      width: 60%;
+      margin-left: 20%;
+      background-color: #154c7a;
+      border-bottom: 1px solid;
+      border-color: #6c7074;
+    }
+    .one{
+      float: left;
+      padding-top: 20px;
+      padding-left: 15px;
+      height: 75px;
+      margin-left: 25px;
+  
+  
+    }
+    .two{
+      color: #fff;
+      text-align: center
+    }
+  
+    .footer-main
+    {
+      background-color: #154c7a;
+      width: 100%;
+      height: 250px;
+      float: left;
+      
+    }
+    .footer-smallsection
+    {
+      background-color: #154c7a;
+      width: 100%;
+      height:15px;
+      float: left;
+      border-bottom: 1px solid;
+      border-color: #6c7074;
+      border-top: 1px solid;
+      border-color: #6c7074;
+    }
+    .footer-bottom
+    {
+      background-color:#0c426f;
+      width: 100%;
+      height: 75px;
+      float: left;
+  
+      
+    }
+    .footer-main-container{
+      width:60%;
+     
+      height: 300px;
+      margin-left: 22%;
+    }
+    .admin{
+     
+      height: 300px;
+      width: 250px;
+      float: left;
+    
+    }
+    .student{
+      
+      height: 300px;
+      width: 250px;
+      
+      float: left;
+    }
+    .general{
+      
+      height: 300px;
+      width: 250px;
+      float: left;
+      
+    }
+    .connect{
+      
+      height: 300px;
+      width: 250px;
+      float: left;
+    }
+    .connection{
+      margin-left: 60px;
+      height: 50px;
+      width: 120px;
+      float: left;
+      
+    }
+    .utube img, .facebook img, .insta img{
+      height: 30px;
+      width: 30px;
+      float: left;
+      margin-left: 10px;
+  
+    }
+    .three,.four,.five{
+      padding-left: 20px;
+    }
+    .three li, .four li, .five li{
+      
+      list-style-image: initial;
+      color: #9dbbd5;
+     
+      }
+    .three a, .four a, .five a{
+     color: #9dbbd5;
+     text-decoration: none;
+     font-size:12px;
+     
+    }
+    .footer-bottom-container{
+      height: 50px;
+      width: 50%;
+    
+      margin-left: 25%;
+      font-size: 10px;
+      
+  
+    }
+    .copy
+    {
+      height: 50px;
+      width: 30%;
+      padding-top: 10px;
+      float: left;
+      color: #3c87c4;
+      
+  
+    }
+    .cucc{
+      height: 50px;
+      width: 30%;
+     padding-top: 10px;
+      float: left;
+      margin-left: 40%;
+      color: #3c87c4;
+      
+     }
+     .cucc label{
+      padding-left:190px;
+     }
+     
